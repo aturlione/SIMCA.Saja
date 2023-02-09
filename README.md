@@ -1,5 +1,5 @@
 # Open in Google colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aturlione/SIMCA/blob/master/SIMCA_NOTEBOOK.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aturlione/SIMCA.Saja/blob/main/SAJA_NOTEBOOK.ipynb)
 
 # Local installation
 
