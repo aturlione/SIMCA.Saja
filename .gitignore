@@ -13,6 +13,7 @@ config.json
 *.html
 *.json
 *.nc
+*.png
 
 # Distribution / packaging
 .Python
@@ -119,6 +120,8 @@ celerybeat.pid
 
 # mkdocs documentation
 /site
+/Custom
+/Output
 
 # mypy
 .mypy_cache/
