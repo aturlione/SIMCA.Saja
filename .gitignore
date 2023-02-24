@@ -134,5 +134,8 @@ dmypy.json
 #checkpoints
 .ipynb_checkpoints
 
+#notebooks
+SIMCA_NOTEBOOK.ipynb
+
 
 
